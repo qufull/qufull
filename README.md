@@ -1,4 +1,9 @@
 ## Hi there 👋
+public class Qufull {
+  private String name = Oleg;
+  private int age = 19;
+  
+}
 
 <!--
 **qufull/qufull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
